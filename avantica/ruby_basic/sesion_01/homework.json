@@ -1,0 +1,57 @@
+[  
+   {  
+      "nro":1,
+      "pregunta":"Quien es el creador de Ruby?",
+      "respuesta": "b",
+      "opciones":{  
+         "a":"Mark Zuckerberg",
+         "b":"Yukihiro Matsumoto",
+         "c":"Bill Gates",
+         "d":"Chuck Norris"
+      }
+   },
+   {  
+      "nro":2,
+      "pregunta":"Que es programacion orientada a objetos",
+      "respuesta": "c",
+      "opciones":{  
+         "a":"Es un programa que se orienta a objetos",
+         "b":"Es un paradigma de programacion basada en funciones",
+         "c":"Es un paradigma de programacion que usa objetos",
+         "d":"Es un curso de la universidad del cual no me acuerdo nada"
+      }
+   },
+   {  
+      "nro":3,
+      "pregunta":"En informatica, que es un bug?",
+      "respuesta": "a",
+      "opciones":{  
+         "a":"Es un error o un defecto en el software",
+         "b":"Es un bicho",
+         "c":"Una palabra de 3 letras",
+         "d":"Algo con lo que tengo que lidiar toooodos los dias...."
+      }
+   },
+   {  
+      "nro":4,
+      "pregunta":"Que significa PMBOK?",
+      "respuesta": "d",
+      "opciones":{  
+         "a":"Programming Methods Book of Knowledge",
+         "b":"Project Manager Book OK",
+         "c":"Programacion Modular Basada en Objetos Kriptonianos",
+         "d":"Project Management Body of Knowledge"
+      }
+   },
+   {  
+      "nro":5,
+      "pregunta":"¿De que color eran las mangas del chaleco blanco de Napoleon?",
+      "respuesta": "c",
+      "opciones":{  
+         "a":"Pues blancas",
+         "b":"Azules",
+         "c":"De ningun color",
+         "d":"Ninguna de las anteriores"
+      }
+   }
+]
