@@ -1,0 +1,57 @@
+[  
+   {  
+      "nro":1,
+      "pregunta":"Que significan las siglas QA?",
+      "respuesta": "b",
+      "opciones":{  
+         "a":"Qatar Airlines",
+         "b":"Quality Assurance",
+         "c":"Quesos Azules",
+         "d":"No sabe/no opina"
+      }
+   },
+   {  
+      "nro":2,
+      "pregunta":"Cual es el ciclo de vida del desarrollo de software?",
+      "respuesta": "c",
+      "opciones":{  
+         "a":"Que es un ciclo de vida de desarrollo de software?",
+         "b":"Programar, testear, desplegar",
+         "c":"Requisitos, Analisis, Diseño, Codificacion, Evaluacion, Mantenimiento",
+         "d":"Yo solo se que nada se"
+      }
+   },
+   {  
+      "nro":3,
+      "pregunta":"Que es gestion de cambios?",
+      "respuesta": "a",
+      "opciones":{  
+         "a":"Es la evaluacion y planificacion del proceso de cambio para asegurar se haga de la manera mas eficiente",
+         "b":"Es un termino bonito que no significa nada",
+         "c":"Una palabra de 5 letras",
+         "d":"Nunca habia escuchado ese termino antes"
+      }
+   },
+   {  
+      "nro":4,
+      "pregunta":"Que es una prueba de integracion?",
+      "respuesta": "d",
+      "opciones":{  
+         "a":"Pruebas que verifican el correcto funcionamiento de un modulo de codigo",
+         "b":"Pruebas que se hacen para verificar que una integral se hizo correctamente",
+         "c":"Son las pruebas de caja negra",
+         "d":"Son pruebas que verifican que un conjunto de partes del software funcionan juntos"
+      }
+   },
+   {  
+      "nro":5,
+      "pregunta":"El padre de Rosa tiene 5 hijas: Nana, Nene, Nini y Nono ¿Cómo se llama la quinta hija?",
+      "respuesta": "c",
+      "opciones":{  
+         "a":"Nunu",
+         "b":"Por que el padre le puso esos nombres a sus hijas?",
+         "c":"Rosa",
+         "d":"No se sabe"
+      }
+   }
+]

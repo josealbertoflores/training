@@ -1,5 +1,6 @@
 require 'json'
 require_relative 'evaluacion'
+require_relative 'career_path'
 
 class Persona
   attr_accessor :nombre
@@ -12,6 +13,7 @@ class Persona
   end
 
   include Evaluacion
+  include CareerPath
 
   def tomar_examen
     archivo = File.read('evaluacion.json')

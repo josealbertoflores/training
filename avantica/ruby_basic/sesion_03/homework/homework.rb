@@ -1,7 +1,5 @@
 require_relative 'software_engineer'
 require_relative 'qa_engineer'
 
-se = SoftwareEngineer.new()
-qa = QAEngineer.new()
-
+se = QAEngineer.new("Jose", "Flores", :qa2)
 se.tomar_examen
